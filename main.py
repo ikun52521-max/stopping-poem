@@ -9,7 +9,7 @@ import os
 
 POEM = """I stood in the doorway,
 coat half on, one foot
-already in the cold.
+already tasting the cold.
 
 I took it off.
 Hung it up. Stayed.
@@ -17,7 +17,7 @@ Hung it up. Stayed.
 The room did not thank me.
 It did not need to.
 The staying was the answer,
-and the answer was mine.
+and the answer was mine to keep.
 """
 
 
